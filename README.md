@@ -1,1 +1,2 @@
 # Wurd-Editor
+Read spec
